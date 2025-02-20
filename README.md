@@ -1,2 +1,2 @@
 # Challenge Amigo Secreto
-Archivo que contiene juego de sortear un amigo secreto 
+Juego amigo secreto en rama "challenge"
