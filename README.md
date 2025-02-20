@@ -1,2 +1,2 @@
-# challenge_amigosecreto
+# Challenge Amigo Secreto
 Archivo que contiene juego de sortear un amigo secreto 
